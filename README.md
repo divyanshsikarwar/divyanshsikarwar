@@ -10,7 +10,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="125px" width="125px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
 
 **Software Engineer Intern** \
 [**Nagarro**](https://www.nagarro.com/en) • (Jun 2022 - Aug 2022) \
