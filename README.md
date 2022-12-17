@@ -14,7 +14,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Engineer Intern** \
 [**Nagarro**](https://www.nagarro.com/en) • (Jun 2022 - Aug 2022) \
-Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `Node.JS`,`Express.JS`, `MongoDB` 
+Languages & Technologies: `HTML`, `Cascading Style Sheets (CSS)`, `JavaScript`, `Node.JS`,`Express.JS`, `MongoDB` 
   - Worked with various Full-Stack technologies and up-skilled my real life problem solving skills. 
   - Developed proficiency in the field, by contributing to various projects and finding innovative solutions.
 
