@@ -33,8 +33,6 @@ Languages & Technologies: `JavaScript`, ` Cascading Style Sheets (CSS)`, `React.
 
 
 <br/>
-<br/>
-<br/>
 
 ### Skills
 - Programming Languages:	`Experienced`: Python, HTML `Familiar`: Javascript, C++, CSS 
