@@ -35,7 +35,7 @@ Languages & Technologies: `JavaScript`, ` Cascading Style Sheets (CSS)`, `React.
 
 In the overview below you will find my most recent personal/university projects:
 
-[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+[<img align="left" height="130px" width="130px" alt="YumTrip" src="https://i.postimg.cc/ZRhwGd2j/Yum-Trip-Logo-Copy.png"/>](https://yumtrip.netlify.app/)
 
 [**YumTrip**](https://yumtrip.netlify.app/) • Personal \
 Languages & Technologies: `React.JS`, `Express.JS`, `Node.JS`, `MongoDB`, `AWS`, `Socket.io`
@@ -43,7 +43,7 @@ Languages & Technologies: `React.JS`, `Express.JS`, `Node.JS`, `MongoDB`, `AWS`,
   - Implemented features for searching/scanning orders, order management, and visualization for customers and restaurant owners.
 
 ---
-[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+[<img align="left" height="130px" width="130px" alt="Kalam" src="https://i.postimg.cc/vmmncH9M/Secure-Coding.jpg"/>](http://kalam-editor.netlify.app/)
 
 [**Kalam**](http://kalam-editor.netlify.app/) • Personal \
 Languages & Technologies: `React.JS`, `Socket.io`, `Express.JS`, `MongoDB`, `Node.JS`
@@ -51,7 +51,7 @@ Languages & Technologies: `React.JS`, `Socket.io`, `Express.JS`, `MongoDB`, `Nod
   - Implemented view-only and admin modes, and ensured the application can handle at least 4 users per document.
 
 ---
-[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+[<img align="left" height="130px" width="130px" alt="ISS Locator" src="https://i.postimg.cc/XYSxGF7W/ggfgg.jpg"/>](http://allaboutiss.000webhostapp.com/)
 
 [**ISS Locator**](http://allaboutiss.000webhostapp.com/) • Personal \
 Languages & Technologies: `JavaScript`, `HTML`, `CSS`, `BootStrap`, `NASA Public APIs`
