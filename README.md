@@ -31,6 +31,7 @@ Languages & Technologies: `JavaScript`, ` Cascading Style Sheets (CSS)`, `React.
 - Featured Projects: [Kiaayas Store](https://kiaayasstore.com/) 
 
 
+
 ### Projects
 
 In the overview below you will find my most recent personal/university projects:
