@@ -29,9 +29,34 @@ Languages & Technologies: `HTML`, `Cascading Style Sheets (CSS)`, `JavaScript`, 
 Languages & Technologies: `JavaScript`, ` Cascading Style Sheets (CSS)`, `React.js`, `HTML` 
 - I made significant enhancements to the company's website by implementing a range of important features.
 - Featured Projects: [Kiaayas Store](https://kiaayasstore.com/) 
-  
 
 
+### Projects
+
+In the overview below you will find my most recent personal/university projects:
+
+[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+
+[**YumTrip**](https://yumtrip.netlify.app/) • Personal \
+Languages & Technologies: `React.JS`, `Express.JS`, `Node.JS`, `MongoDB`, `AWS`, `Socket.io`
+  - Developed a web app for QR-based dine-in order management.
+  - Implemented features for searching/scanning orders, order management, and visualization for customers and restaurant owners.
+
+---
+[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+
+[**Kalam**](http://kalam-editor.netlify.app/) • Personal \
+Languages & Technologies: `React.JS`, `Socket.io`, `Express.JS`, `MongoDB`, `Node.JS`
+  - Developed a collaborative text editor with real-time collaboration and password protection.
+  - Implemented view-only and admin modes, and ensured the application can handle at least 4 users per document.
+
+---
+[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+
+[**ISS Locator**](http://allaboutiss.000webhostapp.com/) • Personal \
+Languages & Technologies: `JavaScript`, `HTML`, `CSS`, `BootStrap`, `NASA Public APIs`
+  - Developed a web app that displays information about the International Space Station, including live location on a map.
+  - Used 3 public APIs to fetch, geocode, and reverse-geocode the current location.
 <br/>
 
 ### Skills
