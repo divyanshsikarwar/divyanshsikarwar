@@ -14,7 +14,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Development Intern** \
 [**Testbook**](https://testbook.com/) • (Jun 2022 - Aug 2022) \
-Languages & Technologies: `HTML`, `Cascading Style Sheets (CSS)`, `JavaScript`, `Node.JS`,`Express.JS`, `MongoDB` 
+Languages & Technologies: `GO`, `MongoDB`, `Redis`, `JavaScript`,`JWT`, `GCP` 
   - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
   - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
 
