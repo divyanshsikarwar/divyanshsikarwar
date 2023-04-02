@@ -16,7 +16,7 @@ In the overview below you will find my most recent work experience:
 [**Testbook**](https://testbook.com/) • (Jun 2022 - Aug 2022) \
 Languages & Technologies: `HTML`, `Cascading Style Sheets (CSS)`, `JavaScript`, `Node.JS`,`Express.JS`, `MongoDB` 
   - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
-  - Design, deploy, and manage MongoDB and Redis databases, and monitor and troubleshoot production issues to ensure high availability of Testbook's backend systems.
+  - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
 
 ---
 
