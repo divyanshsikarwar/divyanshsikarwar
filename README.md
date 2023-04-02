@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📚 I am currently a final year engineering student at [Jaypee Institute of Information Technology, Noida](https://www.jiit.ac.in/).
-- 🔨 I have professional experience as a web developer, including internships at Nagarro, Kiaayas Marketing, and freelance at GurukulFame Institute.
+- 🔨 I have professional experience in software development, including internships at Testbook, Nagarro, Kiaayas Marketing, and freelance at GurukulFame Institute.
 - 📱 I have developed a range of projects, including a web app that implements a QR-based, Dine-in order management system (YumTrip), a collaborative text editor (Kalam), and a web app that provides information about the international space station (ISS-Locator).
 - 📊 I have strong skills in Python, Node.JS, Express.JS and React, as well as experience with various tools and platforms including Git, AWS S3, Heroku, and Netlify.
 - 🤝 I am a team player with excellent communication skills and the ability to work effectively in a collaborative environment.
