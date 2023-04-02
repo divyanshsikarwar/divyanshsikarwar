@@ -10,7 +10,7 @@
 In the overview below you will find my most recent work experience:
 
 
-[<img align="left" height="130px" width="130px" alt="Nagarro" src="https://i.postimg.cc/RhL4thVZ/Nagarro.jpg"/>](https://www.nagarro.com/en)
+[<img align="left" height="130px" width="130px" alt="Testbook" src="https://i.ibb.co/sK6xQqG/11621-testbook.webp"/>](https://testbook.com/)
 
 **Software Development Intern** \
 [**Testbook**](https://testbook.com/) • (Jun 2022 - Aug 2022) \
