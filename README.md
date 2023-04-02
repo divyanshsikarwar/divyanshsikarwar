@@ -25,7 +25,7 @@ Languages & Technologies: `GO`, `MongoDB`, `Redis`, `JavaScript`,`JWT`, `GCP`
 
 **Software Engineer Intern** \
 [**Nagarro**](https://www.nagarro.com/en) • (Jun 2022 - Aug 2022) \
-Languages & Technologies: `HTML`, `Cascading Style Sheets (CSS)`, `JavaScript`, `Node.JS`,`Express.JS`, `MongoDB` 
+Languages & Technologies: `Node.JS`,`Express.JS`, `MongoDB` , `JavaScript`, `HTML`, `Cascading Style Sheets (CSS)`
   - Built and maintained web applications using various Full-Stack technologies.
   - Worked with backend technologies such as Node.js to build and integrate APIs and database systems.
 
@@ -37,7 +37,7 @@ Languages & Technologies: `HTML`, `Cascading Style Sheets (CSS)`, `JavaScript`, 
 
 **Web Development Intern** \
 [**Kiaayas Marketing**](https://kiaayasstore.com/) • (Aug 2020 - Oct 2020) \
-Languages & Technologies: `JavaScript`, ` Cascading Style Sheets (CSS)`, `React.js`, `HTML` 
+Languages & Technologies: `React.js`, `JavaScript`, `HTML` , ` Cascading Style Sheets (CSS)` , `SQL`
 - I made significant enhancements to the company's website by implementing a range of important features.
 - Featured Projects: [Kiaayas Store](https://kiaayasstore.com/) 
 
