@@ -14,7 +14,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Development Intern** \
 [**Testbook**](https://testbook.com/) • (Jun 2022 - Aug 2022) \
-Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,`JWT (JSON Web Token)`, `GCP (Google Cloud Platform)` 
+Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,`JWT (JSON Web Token)`, `GCP` 
   - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
   - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
 
