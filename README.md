@@ -70,9 +70,9 @@ Languages & Technologies: `JavaScript`, `HTML`, `CSS`, `BootStrap`, `NASA Public
 <br/>
 
 ### Skills
-- Programming Languages:	`Experienced`: Python, HTML `Familiar`: Javascript, C++, CSS 
-- Libraries/Frameworks:	React.JS, Node.JS, Bootstrap, Material-UI, Socket.Io, Express.JS 
-- Tools / Platforms:	`Experienced`: Git `Familiar`: AWS S3, Heroku, Netlify 
-- Databases:	`Experienced`: SQL `Familiar`: MongoDB
+- Programming Languages:	`Experienced`: Go, Python, Javascript `Familiar`: C++, HTML 
+- Libraries/Frameworks: Mux, Node.JS, Bootstrap, Material-UI, Socket.Io, Express.JS, ReactJs
+- Tools / Platforms:	GCP , RabbitMQ, Elasticsearch 
+- Databases:	MongoDB, Redis, SQL
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/divyanshsikarwar/) for a more detailed description of my full work experience, education and certification.
