@@ -12,8 +12,8 @@ In the overview below you will find my most recent work experience:
 **Software Development Engineer** \
 [**Attentive.ai**](https://attentive.ai/) • (Feb 2024 - Present) \
 Languages & Technologies: `Python`, `Django`, `SQL`, `Redis`, `OAuth 2.0`, `GCP`, `Docker`
-  - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
-  - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
+  - Develop and maintain backend systems with Python, Django supporting microservices architecture.
+  - Manage SQL, Redis and RabbitMQ services to ensure high availability of multiple backend systems.
 
 ---
 
@@ -22,7 +22,7 @@ Languages & Technologies: `Python`, `Django`, `SQL`, `Redis`, `OAuth 2.0`, `GCP`
 **Software Development Engineer** \
 [**Testbook**](https://testbook.com/) • (Feb 2023 - Jan 2024) \
 Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,`JWT (JSON Web Token)`, `GCP` 
-  - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
+  - Develop and maintain scalable backend applications with Golang, MongoDB and Redis.
   - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
 
 ---
@@ -32,7 +32,7 @@ Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,
 
 **Software Engineer Intern** \
 [**Nagarro**](https://www.nagarro.com/en) • (Jun 2022 - Aug 2022) \
-Languages & Technologies: `Node.JS`,`Express.JS`, `MongoDB` , `JavaScript`, `HTML`, `Cascading Style Sheets (CSS)`
+Languages & Technologies: `Node.JS`,`Express.JS`, `MongoDB` , `JavaScript`, `React.Js`, `Cascading Style Sheets (CSS)`
   - Built and maintained web applications using various Full-Stack technologies.
   - Worked with backend technologies such as Node.js to build and integrate APIs and database systems.
 
