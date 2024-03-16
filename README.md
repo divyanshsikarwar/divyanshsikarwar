@@ -67,7 +67,7 @@ Languages & Technologies: `JavaScript`, `HTML`, `CSS`, `BootStrap`, `NASA Public
 
 ### Skills
 - Programming Languages:	`Experienced`: Go, Python, Javascript `Familiar`: C++, HTML 
-- Libraries/Frameworks: Django, Mux, Node.JS, Bootstrap, Material-UI, Socket.Io, Express.JS, ReactJs
+- Libraries/Frameworks: Django, Mux, Oauth 2.0, React.Js
 - Tools / Platforms:	GCP , RabbitMQ, Elasticsearch 
 - Databases:	MongoDB, Redis, SQL
 
