@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 📚 I am currently a Full Time Software Development Engineer at [Testbook](https://testbook.com/).
-- 🔨 I have professional experience in software development, including internships at Testbook, Nagarro.
+- 📚 I am currently a Full Time Software Development Engineer at [Attentive.ai](https://attentive.ai/).
+- 🔨 I have past professional experiences in software development, including internships at Testbook, Nagarro and Full Time software engineer at Testbook .
 - 📱 I have developed a range of backend heavy projects, including a web app that implements a QR-based, Dine-in order management system (YumTrip), a collaborative text editor (Kalam), and a web app that provides information about the international space station (ISS-Locator).
 - 📊 I have strong skills in Golang, MongoDB, Redis, RabbitMQ as well as experience with various tools and platforms including Git, AWS S3, Heroku, and Netlify.
 - 💬 You can get in touch with me by email at [Divyanshsikarwar@gmail.com](mailto:Divyanshsikarwar@gmail.com) and [LinkedIn](https://www.linkedin.com/in/divyanshsikarwar/).
