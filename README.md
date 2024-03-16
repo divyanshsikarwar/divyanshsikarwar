@@ -7,11 +7,11 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="130px" width="130px" alt="Testbook" src="https://assets-global.website-files.com/63a5ab1451ece76d773e6c46/65cdae4d10da104c9392bbb3_Attentive_green-04.svg"/>](https://attentive.ai/)
+[<img align="left" height="130px" width="130px" alt="Attentive" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-TqyuB9yYpbbq-3IzXhhg.png"/>](https://attentive.ai/)
 
 **Software Development Engineer** \
 [**Attentive.ai**](https://attentive.ai/) • (Feb 2024 - Present) \
-Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,`JWT (JSON Web Token)`, `GCP` 
+Languages & Technologies: `Python`, `Django`, `SQL`, `Redis`, `OAuth 2.0`, `GCP`, `Docker`
   - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
   - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
 
@@ -35,19 +35,6 @@ Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,
 Languages & Technologies: `Node.JS`,`Express.JS`, `MongoDB` , `JavaScript`, `HTML`, `Cascading Style Sheets (CSS)`
   - Built and maintained web applications using various Full-Stack technologies.
   - Worked with backend technologies such as Node.js to build and integrate APIs and database systems.
-
----
-
-
-
-[<img align="left" height="135px" width="130px" alt="Kiaayas Store" src="https://i.postimg.cc/Ss0rP7cj/301014963-475277784606916-6717923195550097285-n.jpg"/>](https://kiaayasstore.com/)
-
-**Web Development Intern** \
-[**Kiaayas Marketing**](https://kiaayasstore.com/) • (Aug 2020 - Oct 2020) \
-Languages & Technologies: `React.js`, `JavaScript`, `HTML` , ` Cascading Style Sheets (CSS)` , `SQL`
-- I made significant enhancements to the company's website by implementing a range of important features.
-- Featured Projects: [Kiaayas Store](https://kiaayasstore.com/) 
-
 
 
 ### Projects
