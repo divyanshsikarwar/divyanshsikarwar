@@ -7,7 +7,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="130px" width="130px" alt="Testbook" src="https://i.ibb.co/sK6xQqG/11621-testbook.webp"/>](https://testbook.com/)
+[<img align="left" height="130px" width="130px" alt="Testbook" src="https://assets-global.website-files.com/63a5ab1451ece76d773e6c46/65cdae4d10da104c9392bbb3_Attentive_green-04.svg"/>](https://attentive.ai/)
 
 **Software Development Engineer** \
 [**Attentive.ai**](https://attentive.ai/) • (Feb 2024 - Present) \
@@ -20,7 +20,7 @@ Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,
 [<img align="left" height="130px" width="130px" alt="Testbook" src="https://i.ibb.co/sK6xQqG/11621-testbook.webp"/>](https://testbook.com/)
 
 **Software Development Engineer** \
-[**Testbook**](https://testbook.com/) • (Jun 2022 - Jan 2024) \
+[**Testbook**](https://testbook.com/) • (Feb 2023 - Jan 2024) \
 Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,`JWT (JSON Web Token)`, `GCP` 
   - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
   - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
