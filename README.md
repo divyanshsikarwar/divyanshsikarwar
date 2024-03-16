@@ -2,16 +2,25 @@
 - 📚 I am currently a Full Time Software Development Engineer at [Attentive.ai](https://attentive.ai/).
 - 🔨 I have past professional experiences in software development, including internships at Testbook, Nagarro and Full Time software engineer at Testbook .
 - 📱 I have developed a range of backend heavy projects, including a web app that implements a QR-based, Dine-in order management system (YumTrip), a collaborative text editor (Kalam), and a web app that provides information about the international space station (ISS-Locator).
-- 📊 I have strong skills in Golang, MongoDB, Redis, RabbitMQ as well as experience with various tools and platforms including Git, AWS S3, Heroku, and Netlify.
+- 📊 I have strong skills in Golang, Django, MongoDB, Redis, RabbitMQ as well as experience with various tools and platforms including Git, AWS S3, Heroku, and Netlify.
 - 💬 You can get in touch with me by email at [Divyanshsikarwar@gmail.com](mailto:Divyanshsikarwar@gmail.com) and [LinkedIn](https://www.linkedin.com/in/divyanshsikarwar/).
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
+[<img align="left" height="130px" width="130px" alt="Testbook" src="https://i.ibb.co/sK6xQqG/11621-testbook.webp"/>](https://testbook.com/)
+
+**Software Development Engineer** \
+[**Attentive.ai**](https://attentive.ai/) • (Feb 2024 - Present) \
+Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,`JWT (JSON Web Token)`, `GCP` 
+  - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
+  - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
+
+---
 
 [<img align="left" height="130px" width="130px" alt="Testbook" src="https://i.ibb.co/sK6xQqG/11621-testbook.webp"/>](https://testbook.com/)
 
 **Software Development Engineer** \
-[**Testbook**](https://testbook.com/) • (Jun 2022 - Present) \
+[**Testbook**](https://testbook.com/) • (Jun 2022 - Jan 2024) \
 Languages & Technologies: `GO`, `Gorilla Mux`, `MongoDB`, `Redis`, `JavaScript`,`JWT (JSON Web Token)`, `GCP` 
   - Develop and maintain backend applications with Golang, Gorilla Mux, and microservices architecture.
   - Manage MongoDB and Redis databases, and ensure high availability of Testbook's backend systems.
