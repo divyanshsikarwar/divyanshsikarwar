@@ -1,6 +1,6 @@
 # Divyansh Sikarwar
 
-**Software Development Engineer · Backend systems · Applied AI**
+**Software Engineer II · Backend systems · Applied AI**
 
 I build backend services and AI-enabled workflows. At Zomato, my work focuses on consumer-facing agents and evaluating real-time conversations that can include long tool outputs and images. JEVision is a personal side project exploring structured evaluation across text and visual inputs.
 
@@ -10,9 +10,12 @@ I build backend services and AI-enabled workflows. At Zomato, my work focuses on
 
 [<img align="left" height="130px" width="130px" alt="Zomato" src="assets/zomato-logo.png"/>](https://www.zomato.com/)
 
-**Software Development Engineer**<br/>
+**Software Engineer II**<br/>
 [**Zomato**](https://www.zomato.com/) • 2026–Present<br/>
-Focus: consumer-facing agent workflows, evaluation of tool-rich conversations, and visual inputs.
+Languages & Technologies: `Python`, `LLM agents`, `LLM-as-a-judge`, `rubric-based evaluation`, `multimodal agent traces`
+- Build consumer-facing agents that help resolve user and operational queries in real time.
+- Develop agent evaluation workflows that break broad rubrics into atomic questions and surface the likelihood of issues in a conversation.
+- Evaluate traces containing tool outputs and images, where the context can be much larger than a standard request window.
 
 <br clear="left"/>
 
